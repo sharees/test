@@ -14,3 +14,5 @@ m
 n
 master
 feature
+--no-ff git merge
+
